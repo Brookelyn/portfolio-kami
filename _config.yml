@@ -64,6 +64,9 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
+  
+# GEMS
+  gems: [jekyll-paginate]
 
 # BUILD SETTINGS
 markdown: kramdown
