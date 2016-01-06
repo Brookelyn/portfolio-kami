@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bloctime
+date: 2016-01-06
 thumbnail-path: "img/balza_bloctime.png"
 short-description: A Pomodoro-style time management app.
 
