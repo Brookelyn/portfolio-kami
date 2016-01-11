@@ -10,7 +10,8 @@ theme:
 
   # Header and footer text
   header_text: >
-     <h1>Coder, knitter, gamer</h1>
+     <h6>GOODNESS, GRACIOUS, GREAT</h6>
+     <h1>BALZA FIRE</h1>
      <p>I'm a self-taught front-end developer who wants to make the web a more beautiful and intuitive place.</p>
   header_text_feature_image: 
   footer_text: >
@@ -39,7 +40,7 @@ theme:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-72062545-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
